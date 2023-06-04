@@ -1,0 +1,11 @@
+:root {
+  --background-image: linear-gradient(0deg,#0c0e0cee 24% ,#030503ee 62% ,#060408ef 84%);
+  --hr-color: #F1F1F1;
+  --code-color: #F1F1F1;
+  --font-color: #c1ffddbb;
+  --a-color: #0085FF;
+  --border-color: #ffffff;
+  --button-border-style: none
+}
+
+/*# sourceMappingURL=dark.css.map*/
