@@ -16,14 +16,14 @@
 
 @media (min-width: 400px) {
   .button,button {
-      width:380px;
+      width:90%;
       padding: 0
   }
 }
 
 @media (min-width: 550px) {
   .container {
-      width:450px
+      width:100%
   }
 
 .button:hover {
